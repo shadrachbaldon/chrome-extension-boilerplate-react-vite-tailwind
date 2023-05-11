@@ -12,7 +12,7 @@ const Newtab = () => {
           Edit <code>src/pages/newtab/Newtab.tsx</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          className="text-3xl font-bold underline"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
